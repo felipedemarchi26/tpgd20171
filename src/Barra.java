@@ -20,6 +20,7 @@ public class Barra {
 		this.width = width;
 		this.height = height;
 		this.velY = velY;
+		//Comentario para teste
 	}
 
 	public int getPosX() {
